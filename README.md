@@ -1,4 +1,4 @@
-# Hotel Bookings
+# Business Case: Hotel Bookings
 
 ## 1. Introduction
 
